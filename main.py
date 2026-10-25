@@ -52,7 +52,7 @@ async def custom_http_exception_handler(
         content={
             "status": "error",
             "detail": exc.detail,
-            "Developer": "@shreepai"
+            "Developer": "@MrMohitMod"
         }
     )
 
